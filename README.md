@@ -1,6 +1,5 @@
-# Multiple Linear Regression Estimation of Sales DataFrame
+# Multiple Linear Regression Estimation of Sales DataFrame 📊
 
-### Introduction
 
 *  Multiple linear regression helps you estimate the linear relationship between one continuous dependent variable and two or more independent variables.
 
@@ -15,6 +14,6 @@ Will conduct a multiple linear regression analysis to estimate sales from a comb
 *  Interpreting model outputs and communicating the results to non-technical stakeholders
 
 
-  ![Screenshot 2023-07-28 224841](https://github.com/sagarv2522/multiple-linear-regression-estimation-sales/assets/109810639/4690ead6-ae1e-412f-a3f1-a7ecb70f8a2c)
+  ![Multiple Linear Regression Image](https://github.com/sagarv2522/multiple-linear-regression-estimation-sales/blob/main/image-multiple-linear.png)
 
   For more 🔗 chech out the Notebook 📓
